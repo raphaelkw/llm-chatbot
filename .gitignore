@@ -165,6 +165,7 @@ cython_debug/
 venv
 .venv
 .python-version
+.conda
 __pycache__
 **secrets.toml
 .streamlit/secrets**.toml
