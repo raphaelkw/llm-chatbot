@@ -1,0 +1,12 @@
+# To rename as secrets.toml
+# .streamlit/secrets.toml
+
+OPENAI_API_KEY = "sk-"
+SCHEMA_PATH = "GHIMMOHMOH_SAMPLE.PUBLIC"
+
+[connections.snowflake]
+user = "sample"
+password = "sample1"
+warehouse = "COMPUTE_WH"
+role = "ACCOUNTADMIN"
+account = "Qxxx-QX"
